@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeGenerator", "BarcodeGenerator.csproj", "{87260AF9-1978-41BF-8816-A9F962F70166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2C2F9D12-4D8E-454D-A397-593657C3EAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{E2434CE3-6CBC-4628-BA86-279BA1A91C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87260AF9-1978-41BF-8816-A9F962F70166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87260AF9-1978-41BF-8816-A9F962F70166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87260AF9-1978-41BF-8816-A9F962F70166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87260AF9-1978-41BF-8816-A9F962F70166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2F9D12-4D8E-454D-A397-593657C3EAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2F9D12-4D8E-454D-A397-593657C3EAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2F9D12-4D8E-454D-A397-593657C3EAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2F9D12-4D8E-454D-A397-593657C3EAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2434CE3-6CBC-4628-BA86-279BA1A91C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2434CE3-6CBC-4628-BA86-279BA1A91C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2434CE3-6CBC-4628-BA86-279BA1A91C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2434CE3-6CBC-4628-BA86-279BA1A91C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
